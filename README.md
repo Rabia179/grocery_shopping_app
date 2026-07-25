@@ -1,4 +1,6 @@
 # grocery_shopping_app
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-25 at 10 02 45 AM" src="https://github.com/user-attachments/assets/76271072-e6d8-428f-8b94-2aaf4e4b6896" />
+
 
 A new Flutter project.
 
